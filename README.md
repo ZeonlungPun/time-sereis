@@ -25,3 +25,12 @@ Time series predictio with latest models : neuralprophet,prophet and xgboost:
 https://www.youtube.com/watch?v=z3ZnOW-S550
 
 https://www.youtube.com/watch?v=vV12dGe_Fho&t=998s
+
+
+https://www.youtube.com/watch?v=mgX0Iz4q0bE&t=1224s
+
+
+papers for neuralprophet model:https://arxiv.org/abs/2111.15397
+
+predicting results for xgboost:
+
