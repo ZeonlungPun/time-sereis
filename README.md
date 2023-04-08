@@ -32,5 +32,5 @@ https://www.youtube.com/watch?v=mgX0Iz4q0bE&t=1224s
 
 papers for neuralprophet model:https://arxiv.org/abs/2111.15397
 
-predicting results for xgboost:
+predicting results for xgboost:[img test](https://github.com/ZeonlungPun/time-sereis/blob/main/Figure_1.png)
 
